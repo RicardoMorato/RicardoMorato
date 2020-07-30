@@ -2,7 +2,7 @@
 
 #### I'm a software engineer who loves learning and testing new things. In love with Javascript, Python and Flutter.
 
-- 💚 Developer @ [CITi](https://citi.org.br/).
+- 💚 Project Manager @ [CITi](https://citi.org.br/).
 - 🔭 Currently using React and Node on projects, also experienced with Django and Django Rest.
 - 🌱 Really getting into Python, Flutter and Go.
 - 👯 Looking to collaborate on any open-source project that, somehow, elevates people.
