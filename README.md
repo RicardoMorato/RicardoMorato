@@ -12,6 +12,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-morato-673576108/)](https://www.linkedin.com/in/ricardo-morato-673576108/)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/ricardomorato)](https://dev.to/ricardomorato)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=gbrls.gbrls)
 
 <!--
 **RicardoMorato/RicardoMorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
