@@ -2,7 +2,7 @@
 
 #### I'm a software engineer who loves learning and testing new things. In love with Javascript, Python and Flutter.
 
-- 💜 Front-end developer [@Zeropay](https://zeropay.io/)
+- 💜 Software Engineer [@Zeropay](https://zeropay.io/)
 - 💚 Alumni [@CITi](https://citi.org.br/).
 - 🔭 Currently using React on projects, also experienced with Django, Django Rest and Node.
 - 🌱 Really getting into Python, Flutter and TDD.
