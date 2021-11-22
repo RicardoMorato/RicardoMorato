@@ -5,7 +5,7 @@
 - 💜 Software Engineer [@Zeropay](https://zeropay.io/)
 - 💚 Alumni [@CITi](https://citi.org.br/).
 - 🔭 Currently using React on projects, also experienced with Django, Django Rest and Node.
-- 🌱 Really getting into Python, Flutter and TDD.
+- 🌱 Really getting into Python, .NET and TDD.
 - 👯 Looking to collaborate on any open-source project that, somehow, elevates people.
 - 💬 I'm always available if you are interested to know new things, mainly about JavaScript and Python. Or if you just want to chat about programming and problem solving!
 - ⚡ Available for freelance projects.
