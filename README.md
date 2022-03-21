@@ -2,7 +2,8 @@
 
 #### I'm a software engineer who loves learning and testing new things. In love with Javascript, Python and Flutter.
 
-- 💜 Software Engineer [@Zeropay](https://zeropay.io/)
+- 💙 Development Consultant [@ThoughtWorks](https://www.thoughtworks.com/)
+- 💜 Technical Consultant [@Zeropay](https://zeropay.io/)
 - 💚 Alumni [@CITi](https://citi.org.br/).
 - 🔭 Currently using React + Node on projects, also experienced with Django, Django Rest and React Native.
 - 🌱 Really getting into Python, Java and TDD.
