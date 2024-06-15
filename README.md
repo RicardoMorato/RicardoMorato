@@ -1,9 +1,9 @@
 ## Hello there <img src="https://www.animoticons.com/files/misc/fantasy-smiley-faces/19.gif" width="50px"/>
 
-#### I'm a software engineer who loves learning and testing new things. In love with Javascript, Python and Flutter.
+#### I'm a software engineer who loves learning and testing new things. In love with Javascript and Python.
 
 - 💙 Software Engineer
-- 🔭 Currently using Node, React, React Native, Python and PHP on projects, also experienced with Flutter, Go, and Kotlin.
+- 🔭 Currently using Python, React, Node, React Native and PHP on projects, also experienced with Flutter, Go, and Kotlin.
 - 🌱 Really getting into software architecture, teaching, and mentoring.
 - 👯 Looking to collaborate on any open-source project that, somehow, elevates people.
 - 💬 I'm always available if you are interested to know new things, mainly about JavaScript, Python, and PHP. Or if you just want to chat about programming and problem solving!
